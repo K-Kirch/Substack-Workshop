@@ -7,7 +7,7 @@ The working rule is simple: capture first, organize when useful. Notes can stay 
 ## Where things live
 
 - [Notes](notes/index.md): loose thinking, questions, fragments, and connections.
-- [Drafts](drafts/index.md): drafts and placeholders imported from Substack.
+- [Drafts](drafts/index.md): drafts and placeholders
 - [Published](published/index.md): canonical copies and links for finished Substack posts.
 
 ## Workflow
