@@ -1,29 +1,33 @@
 ---
-title: Consecutive Demonstations. A Response to the Unrest Sweeping Across Europe Today
+title: Consecutive Protests: A Response to the Unrest Sweeping Across Europe Today
 status: draft
 originated: 21-10-2026
 last edited: 21-10-2026
-cover: https://www.reuters.com/world/frances-limoges-fire-ravaged-town-hall-rekindles-memories-notre-dame-2026-10-18/
+cover: pending
+cover_candidate: Reuters photograph of Limoges City Hall, via Reuters article
+cover_source: https://www.reuters.com/world/frances-limoges-fire-ravaged-town-hall-rekindles-memories-notre-dame-2026-10-18/
+cover_rights: licence not verified
 ---
 
 
-# Consecutive Demonstrations. A Response to the Unrest Sweeping Across Europe Today
+# Consecutive Protests: A Response to the Unrest Sweeping Across Europe Today
 
-If you're reading this, I expect that you have heard about the recent riots in Paris. What you may have missed is that similar demonstrations took place in Italy, Spain, Portugal, Belgium, Albania, and the week prior, even in my country Denmark. What scares me most is that they seem to always devolve into violence and vandalism. 
+If you're reading this, I expect that you have heard about the recent riots in Paris. What you may have missed is that similar protests took place in Italy, Spain, Portugal, Belgium, Albania, and the week prior, even in my country Denmark. What scares me most is that they seem to devolve into violence and vandalism. 
 
-Even so, had this been a one off occurrence, we may have been able to write it off as the people's right to expression with a degenerating into a riot, and potentially argue it to be healthy for a democratic society. 
+Even so, had this been a one-off occurrence, we might have seen it as an expression of the people's right to protest, even if parts of it degenerated into riots, and perhaps argued that it was healthy for a democratic society.
 
-But demonstrations have become common, a regular occurrence, and it have been so since Oct. 7th 2023.
+But it is not a new phenomenon, and there seem to be recurring themes and growing frustrations. It leaves me with the question, what happens to a democracy, when protests lose the ability to effectuate change?
 
-Demonstrations are an important part of a democracy as a vehicle for the people to express dissatisfaction, but it is also the last tool of the people before a revolution. A revolution that has never been peaceful throughout history.
+Protests are an important part of a democracy as a vehicle for people to express dissatisfaction. I would distinguish protest as a tool for expressing dissatisfaction with current leadership from revolution as a point at which faith in that leadership has been lost. Both, in my view, depend on leadership refusing to pass on responsibility. To me, riots may form a transition between the two.
 
-I would make the distinction that a demonstration is a tool to express dissatisfaction with current leadership, whereas a Revolution being a tool when faith have been lost in leadership. Both requires such leadership to refuse passing on the responsibility. Riots would seem to be a transitionary state between the two.
+Assuming, for the sake of this thought experiment, that peaceful protest is the last tool available, my fear is that if people come to believe it can no longer move those in power, riots may become more frequent. Riots do not make revolution inevitable. But if protest fails, concessions do not come, and other peaceful channels appear closed, the risk of a revolutionary rupture becomes harder to dismiss.
 
-Now, if we all buy in to this definition, then what does it mean that we have been seeing recurring demonstrations over a 3 year period? And riots becoming a recurring component of this?
+I will concede that, following the current unrest in France, the government has made promises to address problems in the French education system. Yet will it be able to fulfil them? If not, will people feel betrayed again?
 
-It would seem that, if the current European leadership does not implement significant change or abdicate their positions, we are on track for what could become a violent revolution toppling it. Currently the people is exercising their right to protest, and my previous definition settles, this is the ultimate peaceful tool to show dissatisfaction. The continuous pattern of these deonstrations would prove a total loss of effect. If this is true, and the legal right to demonstration, have lost it's ability to effectuate change, then what is the alternative?
+The protests were initially a response to a lack of resources in the French education system: teacher shortages, crumbling buildings and equipment, and more. This is also a financing issue in a country with a heavy and rising debt burden. France's public debt stood at 119% of GDP at the end of the second quarter of 2026. The 2027 budget proposal estimates that interest payments on the debt will rise from €79.2 billion in 2026 to €91.2 billion in 2027, reducing the state's room to manoeuvre. That does not mean France is unable to act, but it narrows the room for new commitments: the government must find revenue, cut spending elsewhere, or borrow more. ([INSEE](https://www.insee.fr/en/statistiques/9053525); [Ministry of Economy, 2027 budget proposal](https://www.economie.gouv.fr/actualites/video-presentation-du-projet-de-budget-pour-2027))
 
-I will concede that, post the current unrest in France, Macron have made promises to resolve the issues in the French education system. Yet, will he be able to fulfill on it? If not, will the people feel betrayed again?
-The demonstrations were a response to a lack of resources in the educational system in France with teachers not showing, crumbling buildings and equipment, and more. A financing issue in a country that is increasingly unable to finance their own spending. 
+The responsibility is also spread across levels of government. The state pays teachers, while municipalities maintain primary schools, departments are responsible for collèges, and regions for lycées. A promise made nationally may still depend on local budgets and decisions before students see a difference. ([French Ministry of Education](https://www.education.gouv.fr/le-role-des-collectivites-territoriales-dans-le-service-public-de-l-education-et-le-partenariat-avec-8138))
 
-Macron have approximately 6 months left of his presidency, and is considered a lame duck, with no ability to implement change. Will he be able to assuade some of the people's concerns? Can he prove that the right to demonstrate have not lost its value? Or have France lost its ability to change and at the mercy of the bond market?
+
+
+Macron has approximately six months left in his presidency and is increasingly considered a lame duck. How much change can he still deliver? Will he be able to assuage some of the people's concerns? Can he prove that the right to protest has not lost its value? Or has France lost its ability to change, left at the mercy of the bond market?
